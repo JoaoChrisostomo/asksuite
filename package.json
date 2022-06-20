@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://PetrosChrisostomo@bitbucket.org/paveisistemas-ondemand/asksuite-test-dev.git"
+    "url": "https://github.com/JoaoChrisostomo/asksuite.git"
   },
   "bugs": {
     "url": "https://bitbucket.org/paveisistemas-ondemand/asksuite-test-dev/issues"
