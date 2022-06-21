@@ -6,10 +6,21 @@ I'm going to explain exactly what you'll have to implement in this test and what
 First of all, we have this nice express.js boilerplate project to assist you so you don't have to create everything from scratch.
 
 ## Briefing
-The traveller comes to our bot and asks for "Price quotation". Then the bot asks for the dates the traveller wants to 
-stay at the bot's hotel.
-At the moment the traveller fills the requested information the bot needs to search the prices for each room available in the check-in/check-out 
-timeframe.
+Para rodar o projeto faça
+-  Git clone do reposit
+- Rode o comando npm install
+-  Em seguida rode o npm run dev
+
+Assim a api já vai estar funcionand ;)
+
+Para testar as requisições que estão retornando utilize algum framewor:
+- Postman ou Insomnia
+- Passe no body da  requisição  o checkin e o checkout com no mínimo 4 noites no hotel.
+
+
+
+
+
 
 You will have to implement the API responsible for doing the searching part.
 The necessary information for the crawler is under the [Assets](#assets) session
